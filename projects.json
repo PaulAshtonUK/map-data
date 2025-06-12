@@ -1,175 +1,202 @@
 [
   {
     "name": "101",
-    "description": "Interior Design",
+    "description": "City Centre Bar",
+    "category": "Interior Design",
     "latitude": 53.40137807452451,
     "longitude": 2.9683055126226696,
-    "link": "https://www.paulashtonarchitects.com/bisected-house"
+    "link": "https://www.paulashtonarchitects.com"
   },
   {
     "name": "108",
-    "description": "Green Belt New Dwelling Permission",
+    "description": "New Dwelling in the Green Belt",
+    "category": "Planning Permission",
     "latitude": 53.523958263762474,
     "longitude": -2.800117605968899,
     "link": "https://www.paulashtonarchitects.com/holly-house-greenbelt-lancashire"
   },
   {
     "name": "110",
-    "description": "Barn Conversion Permission",
+    "description": "Barn Conversion in the Green Belt",
+    "category": "Planning Permission",
     "latitude": 53.37412653206141,
     "longitude": -2.7843943984191917,
-    "link": "https://www.paulashtonarchitects.com/bisected-house"
+    "link": "https://www.paulashtonarchitects.com"
   },
   {
     "name": "112",
-    "description": "Replacement Dwelling Green Belt Permission",
+    "description": "Replacement Dwelling in the Green Belt",
+    "category": "Planning Permission",
     "latitude": 53.19736396578568,
     "longitude": -2.825537484983472,
     "link": "https://www.paulashtonarchitects.com/bisected-house"
   },
   {
     "name": "115",
-    "description": "Domestic Extension Permission",
+    "description": "Domestic Extension",
+    "category": "Planning Permission",
     "latitude": 53.27537552858928,
     "longitude": -2.942209270830251,
     "link": "https://www.paulashtonarchitects.com"
   },
   {
     "name": "119",
-    "description": "Grade II* Listed Building Consent",
+    "description": "Conversion of Grade II* Listed Building to Apartments",
+    "category": "Listed Building Consent",
     "latitude": 53.475074104324314,
     "longitude": -2.2381258355777565,
-    "link": "https://www.paulashtonarchitects.com/bisected-house"
+    "link": "https://www.paulashtonarchitects.come"
   },
   {
     "name": "122",
-    "description": "Green Belt Extension Permission",
+    "description": "Domestic Extension in the Green Belt",
+    "category": "Planning Permission",
     "latitude": 53.218170011504036,
     "longitude": -2.0967293288970517,
-    "link": "https://www.paulashtonarchitects.com/bisected-house"
+    "link": "https://www.paulashtonarchitects.come"
   },
   {
     "name": "124",
     "description": "Converting Terraced House",
+    "category": "Planning Permission",
     "latitude": 53.1980212881484,
     "longitude": -2.89990346855671,
-    "link": "https://www.paulashtonarchitects.com/bisected-house"
+    "link": "https://www.paulashtonarchitects.com"
   },
   {
     "name": "126",
-    "description": "Green Belt Extension Permission",
+    "description": "Domestic Extension in the Green Belt",
+    "category": "Planning Permission",
     "latitude": 53.59217908101283,
     "longitude": -2.75842304620791,
     "link": "https://www.paulashtonarchitects.com"
   },
   {
     "name": "127",
-    "description": "Penthouse to Grade II Listed Building Pre Application",
+    "description": "Penthouse to Grade II Listed Building",
+    "category": "Pre Application",
     "latitude": 53.47476884829638,
     "longitude": -2.2379677213170184,
     "link": "https://www.paulashtonarchitects.com"
   },
   {
     "name": "129",
-    "description": "Domestic Extension Permission",
+    "description": "Domestic Extension",
+    "category": "Planning Permission",
     "latitude": 53.45634819217095,
     "longitude": -2.2728475603930938,
     "link": "https://www.paulashtonarchitects.com"
   },
   {
     "name": "130",
-    "description": "Green Belt Extension Permission",
+    "description": "Domestic Extension in the Green Belt",
+    "category": "Planning Permission",
     "latitude": 53.56393978184148,
     "longitude": -2.929874418172382,
     "link": "https://www.paulashtonarchitects.com"
   },
   {
     "name": "133",
-    "description": "New Build Apartments Feasibility Study",
+    "description": "New Build Apartments",
+    "category": "Feasibility Study",
     "latitude": 53.39443,
     "longitude": -2.965054
   },
   {
     "name": "134",
-    "description": "New Dwelling in Conservation Area Permission",
+    "description": "New Dwelling in a Conservation Area",
+    "category": "Planning Permission",
     "latitude": 53.523958,
     "longitude": -2.800118
   },
   {
     "name": "135",
-    "description": "New Build Apartments Permission",
+    "description": "New Build Apartments",
+    "category": "Planning Permission",
     "latitude": 53.563745,
     "longitude": -3.057092
   },
   {
     "name": "137",
-    "description": "Student Flats & Retail Permission",
+    "description": "Student Flats & Retail",
+    "category": "Planning Permission",
     "latitude": 53.395731,
     "longitude": -2.967490
   },
   {
     "name": "138",
-    "description": "Residential Masterplan Feasibility Study",
+    "description": "Residential Masterplan",
+    "category": "Feasibility Study",
     "latitude": 53.571,
     "longitude": -3.0659
   },
   {
     "name": "139",
-    "description": "Building Regulations Permission",
+    "description": "Internal Alterations to Offices",
+    "category": "Building Regulations",
     "latitude": 53.401326,
     "longitude": -2.983575
   },
   {
     "name": "140",
-    "description": "Alterations to Historic Building Feasibility Study",
+    "description": "Alterations to Historic Building",
+    "category": "Feasibility Study",
     "latitude": 53.1107,
     "longitude": -2.94475
   },
   {
     "name": "141",
-    "description": "Convert Historic Building Adjacent to Grade II* Listed Sefton Park to Student Accommodation Permission",
+    "description": "Convert Historic Building Adjacent to Grade II* Listed Sefton Park to Student Accommodation",
+    "category": "Planning Permission",
     "latitude": 53.38818,
     "longitude": -2.944012
   },
   {
     "name": "142",
-    "description": "Alterations to Existing Dwelling Permission",
+    "description": "Alterations to Existing Dwelling",
+    "category": "Planning Permission",
     "latitude": 53.38818,
     "longitude": -2.944012
   },
   {
     "name": "143",
-    "description": "Internal Alterations to Historic Pub Building Regulations Permission",
+    "description": "Internal Alterations to Historic Pub",
+    "category": "Building Regulations",
     "latitude": 53.4,
     "longitude": -2.983333
   },
   {
     "name": "145",
-    "description": "Warehouse Conversion Pre Application",
+    "description": "Warehouse Conversion",
+    "category": "Pre Application",
     "latitude": 53.401378,
     "longitude": -2.968306
   },
   {
     "name": "146",
-    "description": "Domestic Extension Permission",
+    "description": "Domestic Extension",
+    "category": "Planning Permission",
     "latitude": 53.1107,
     "longitude": -2.94475
   },
   {
     "name": "147",
-    "description": "Domestic Extension Permission",
+    "description": "Domestic Extension",
+    "category": "Planning Permission",
     "latitude": 53.356034344136994,
     "longitude": -2.1756732005654227
   },
   {
     "name": "149",
-    "description": "Residential Development Pre Application",
+    "description": "Residential Development",
+    "category": "Pre Application",
     "latitude": 53.32973682338153,
     "longitude": -2.98946620596553
   },
   {
     "name": "150",
-    "description": "Conversion of Former Carmelite Monastery Outline Permission",
+    "description": "Conversion of Former Carmelite Monastery",
+    "category": "Outline Planning Permission",
     "latitude": 53.37480003108397,
     "longitude": -2.8902510778577333
   }
