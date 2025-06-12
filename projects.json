@@ -45,7 +45,7 @@
     "category": "Listed Building Consent",
     "latitude": 53.475074104324314,
     "longitude": -2.2381258355777565,
-    "link": "https://www.paulashtonarchitects.come"
+    "link": "https://www.paulashtonarchitects.com"
   },
   {
     "name": "122",
@@ -53,7 +53,7 @@
     "category": "Planning Permission",
     "latitude": 53.218170011504036,
     "longitude": -2.0967293288970517,
-    "link": "https://www.paulashtonarchitects.come"
+    "link": "https://www.paulashtonarchitects.com"
   },
   {
     "name": "124",
@@ -100,7 +100,7 @@
     "description": "New Build Apartments",
     "category": "Feasibility Study",
     "latitude": 53.39443,
-    "longitude": -2.965054
+    "longitude": -2.965054,
     "link": "https://www.paulashtonarchitects.com"
   },
   {
@@ -108,7 +108,7 @@
     "description": "New Dwelling in a Conservation Area",
     "category": "Planning Permission",
     "latitude": 53.523958,
-    "longitude": -2.800118
+    "longitude": -2.800118,
     "link": "https://www.paulashtonarchitects.com"
   },
   {
@@ -116,7 +116,7 @@
     "description": "New Build Apartments",
     "category": "Planning Permission",
     "latitude": 53.563745,
-    "longitude": -3.057092
+    "longitude": -3.057092,
     "link": "https://www.paulashtonarchitects.com"
   },
   {
@@ -124,7 +124,7 @@
     "description": "Student Flats & Retail",
     "category": "Planning Permission",
     "latitude": 53.395731,
-    "longitude": -2.967490
+    "longitude": -2.967490,
     "link": "https://www.paulashtonarchitects.com"
   },
   {
@@ -132,7 +132,7 @@
     "description": "Residential Masterplan",
     "category": "Feasibility Study",
     "latitude": 53.571,
-    "longitude": -3.0659
+    "longitude": -3.0659,
     "link": "https://www.paulashtonarchitects.com"
   },
   {
@@ -140,7 +140,7 @@
     "description": "Internal Alterations to Offices",
     "category": "Building Regulations",
     "latitude": 53.401326,
-    "longitude": -2.983575
+    "longitude": -2.983575,
     "link": "https://www.paulashtonarchitects.com"
   },
   {
@@ -148,7 +148,7 @@
     "description": "Alterations to Historic Building",
     "category": "Feasibility Study",
     "latitude": 53.1107,
-    "longitude": -2.94475
+    "longitude": -2.94475,
     "link": "https://www.paulashtonarchitects.com"
   },
   {
@@ -156,7 +156,7 @@
     "description": "Convert Historic Building Adjacent to Grade II* Listed Sefton Park to Student Accommodation",
     "category": "Planning Permission",
     "latitude": 53.38818,
-    "longitude": -2.944012
+    "longitude": -2.944012,
     "link": "https://www.paulashtonarchitects.com"
   },
   {
@@ -164,7 +164,7 @@
     "description": "Alterations to Existing Dwelling",
     "category": "Planning Permission",
     "latitude": 53.38818,
-    "longitude": -2.944012
+    "longitude": -2.944012,
     "link": "https://www.paulashtonarchitects.com"
   },
   {
@@ -172,7 +172,7 @@
     "description": "Internal Alterations to Historic Pub",
     "category": "Building Regulations",
     "latitude": 53.4,
-    "longitude": -2.983333
+    "longitude": -2.983333,
     "link": "https://www.paulashtonarchitects.com"
   },
   {
@@ -180,7 +180,7 @@
     "description": "Warehouse Conversion",
     "category": "Pre Application",
     "latitude": 53.401378,
-    "longitude": -2.968306
+    "longitude": -2.968306,
     "link": "https://www.paulashtonarchitects.com"
   },
   {
@@ -188,7 +188,7 @@
     "description": "Domestic Extension",
     "category": "Planning Permission",
     "latitude": 53.1107,
-    "longitude": -2.94475
+    "longitude": -2.94475,
     "link": "https://www.paulashtonarchitects.com"
   },
   {
@@ -196,7 +196,7 @@
     "description": "Domestic Extension",
     "category": "Planning Permission",
     "latitude": 53.356034344136994,
-    "longitude": -2.1756732005654227
+    "longitude": -2.1756732005654227,
     "link": "https://www.paulashtonarchitects.com"
   },
   {
@@ -204,7 +204,7 @@
     "description": "Residential Development",
     "category": "Pre Application",
     "latitude": 53.32973682338153,
-    "longitude": -2.98946620596553
+    "longitude": -2.98946620596553,
     "link": "https://www.paulashtonarchitects.com"
   },
   {
@@ -212,10 +212,10 @@
     "description": "Conversion of Former Carmelite Monastery",
     "category": "Outline Planning Permission",
     "latitude": 53.37480003108397,
-    "longitude": -2.8902510778577333
+    "longitude": -2.8902510778577333,
     "link": "https://www.paulashtonarchitects.com"
   },
-    {
+  {
     "name": "151",
     "description": "Internal & External Alterations to Grade II Listed Townhouse",
     "category": "Listed Building Consent",
