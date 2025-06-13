@@ -310,5 +310,29 @@
     "latitude": 53.38162126104802,
     "longitude": -2.8692514844074557,
     "link": ""
-  }
+  },
+  {
+    "name": "164",
+    "description": "Extension of Dwelling in the Green Belt",
+    "category": "Feasibility Study",
+    "latitude": 53.51459307044717,
+    "longitude": -2.828712142629343,
+    "link": ""
+  },  
+  {
+    "name": "165",
+    "description": "Internal Modifations to 3 Storey Apartment",
+    "category": "Feasibility Study",
+    "latitude": 53.48299607609383,
+    "longitude": -2.2357021970846582,
+    "link": ""
+  }, 
+  {
+    "name": "166",
+    "description": "Change of Use to Commercial Unit",
+    "category": "Planning Permission", "Building Regulations"
+    "latitude": 53.402056680898006,
+    "longitude": -2.9844076133644606,
+    "link": ""
+  }      
 ]
