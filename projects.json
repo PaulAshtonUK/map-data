@@ -123,8 +123,8 @@
     "name": "133",
     "description": "New-build Apartments",
     "category": "Feasibility Study",
-    "latitude": 53.39443,
-    "longitude": -2.965054,
+    "latitude": 53.384746727773155,
+    "longitude": -2.9702137515023606,
     "link": ""
   },
   {
@@ -145,10 +145,10 @@
   },
   {
     "name": "137",
-    "description": "Student Flats & Retail",
-    "category": "Planning Permission",
-    "latitude": 53.395731,
-    "longitude": -2.96749,
+    "description": "Student Units & Retail",
+    "category": "Feasibility Study",
+    "latitude": 53.395705787101576,
+    "longitude": -2.967440717303454,
     "link": ""
   },
   {
