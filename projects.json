@@ -334,5 +334,117 @@
     "latitude": 53.402056680898006,
     "longitude": -2.9844076133644606,
     "link": ""
-  }
+  },
+  {
+    "name": "172",
+    "description": "Change of Use to Commercial Unit",
+    "category": "Planning Permission",
+    "latitude": 53.44849503266126,
+    "longitude": -2.3560410378934975,
+    "link": ""
+  },
+  {
+    "name": "173",
+    "description": "Domestic Extension",
+    "category": "Planning Permission & Building Regulations",
+    "latitude": 53.3752507111037,
+    "longitude": -2.896630881957106,
+    "link": ""
+  }, 
+  {
+    "name": "174",
+    "description": "Domestic Extension",
+    "category": "Feasibility Study",
+    "latitude": 53.38752192093731,
+    "longitude": -3.1083250825833715,
+    "link": ""
+  }, 
+  {
+    "name": "175",
+    "description": "Domestic Extension in the Green Belt",
+    "category": "Planning Application",
+    "latitude": 53.566371802783536,
+    "longitude": -2.960143235922442,
+    "link": ""
+  },
+  {
+    "name": "177",
+    "description": "Replacement Dwelling",
+    "category": "Feasibility Study",
+    "latitude": 53.56764894906186,
+    "longitude": -3.0699553457467634,
+    "link": ""
+  },
+  {
+    "name": "178",
+    "description": "Medical Centre",
+    "category": "Feasibility Study",
+    "latitude": 53.48454755564734,
+    "longitude": -3.023194663235805,
+    "link": ""
+  },
+  {
+    "name": "179",
+    "description": "Alterations to Grade II Listed Building",
+    "category": "Listed Building Consent",
+    "latitude": 53.40047160229137,
+    "longitude": -2.9738983922412636,
+    "link": ""
+  },
+  {
+    "name": "181",
+    "description": "Change of Use to Commercial Unit",
+    "category": "Planning Permission",
+    "latitude": 53.48171972238846,
+    "longitude": -2.2498577228460186,
+    "link": ""
+  }, 
+  {
+    "name": "182",
+    "description": "Extension to Grade II* Listed Church",
+    "category": "Feasibility Study",
+    "latitude": 53.37627038872382,
+    "longitude": -2.92068934502673,
+    "link": ""
+  }, 
+  {
+    "name": "183",
+    "description": "6 no. New-build Apartments",
+    "category": "Planning Permission & Building Regulations",
+    "latitude": 53.37794836942049,
+    "longitude": -2.146732760245792,
+    "link": ""
+  },
+  {
+    "name": "184",
+    "description": "Orchard Development",
+    "category": "Planning Permission",
+    "latitude": 53.357746060077126,
+    "longitude": -2.156348784030884,
+    "link": ""
+  }, 
+  {
+    "name": "185",
+    "description": "Change of Use of Edwardian Villa to Dwellinghouse",
+    "category": "Planning Permission",
+    "latitude": 53.6412956860943,
+    "longitude": -3.0093946313516726,
+    "link": ""
+  },
+  {
+    "name": "186",
+    "description": "Residential Units on Riverside Site",
+    "category": "Pre Application",
+    "latitude": 53.49902266181669,
+    "longitude": -2.2250928076682053,
+    "link": ""
+  },
+  {
+    "name": "187",
+    "description": "Change of Use to Commercial Unit",
+    "category": "Planning Permission",
+    "latitude": 53.533965806674054,
+    "longitude": -2.2381299719727252,
+    "link": ""
+  }     
 ]
