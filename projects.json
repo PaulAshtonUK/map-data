@@ -210,7 +210,7 @@
   {
     "name": "144",
     "description": "Replacement Dwelling",
-    "category": "Planning Permission & Building Regulations",
+    "category": "Planning Permission, Building Regulations & CDM",
     "latitude": 53.50036221586575,
     "longitude": -2.3618354722198656,
     "link": ""
@@ -650,7 +650,7 @@
   {
     "name": "213",
     "description": "Conversion of Office Building to 9 no. Apartments",
-    "category": "Building Regulations",
+    "category": "Building Regulations & CDM",
     "latitude": 53.39933929486981,
     "longitude": -2.15849007757843,
     "link": ""
