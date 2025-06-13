@@ -5,15 +5,15 @@
     "category": "Interior Design",
     "latitude": 53.40137807452451,
     "longitude": -2.9683055126226696,
-    "link":
+    "link": ""
   },
-    {
+  {
     "name": "103",
     "description": "Baa Bar Nottingham",
     "category": "Interior Design",
-    "latitude": 552.953831449292124,
+    "latitude": 52.953831449292124,
     "longitude": -1.1431064174446295,
-    "link": 
+    "link": ""
   },
   {
     "name": "108",
@@ -61,7 +61,7 @@
     "category": "Listed Building Consent",
     "latitude": 53.475074104324314,
     "longitude": -2.2381258355777565,
-    "link": 
+    "link": ""
   },
   {
     "name": "122",
@@ -69,7 +69,7 @@
     "category": "Planning Permission",
     "latitude": 53.218170011504036,
     "longitude": -2.0967293288970517,
-    "link": 
+    "link": ""
   },
   {
     "name": "124",
@@ -77,7 +77,7 @@
     "category": "Planning Permission",
     "latitude": 53.1980212881484,
     "longitude": -2.89990346855671,
-    "link": 
+    "link": ""
   },
   {
     "name": "126",
@@ -85,7 +85,7 @@
     "category": "Planning Permission",
     "latitude": 53.59217908101283,
     "longitude": -2.75842304620791,
-    "link": 
+    "link": ""
   },
   {
     "name": "127",
@@ -93,7 +93,7 @@
     "category": "Pre Application",
     "latitude": 53.47476884829638,
     "longitude": -2.2379677213170184,
-    "link": 
+    "link": ""
   },
   {
     "name": "129",
@@ -101,7 +101,7 @@
     "category": "Planning Permission",
     "latitude": 53.45634819217095,
     "longitude": -2.2728475603930938,
-    "link": 
+    "link": ""
   },
   {
     "name": "130",
@@ -109,7 +109,7 @@
     "category": "Planning Permission",
     "latitude": 53.56393978184148,
     "longitude": -2.929874418172382,
-    "link": 
+    "link": ""
   },
   {
     "name": "132",
@@ -117,7 +117,7 @@
     "category": "Feasibility Study",
     "latitude": 53.3814580530067,
     "longitude": -2.8300368029115153,
-    "link": 
+    "link": ""
   },
   {
     "name": "133",
@@ -125,7 +125,7 @@
     "category": "Feasibility Study",
     "latitude": 53.39443,
     "longitude": -2.965054,
-    "link": 
+    "link": ""
   },
   {
     "name": "134",
@@ -148,7 +148,7 @@
     "description": "Student Flats & Retail",
     "category": "Planning Permission",
     "latitude": 53.395731,
-    "longitude": -2.967490,
+    "longitude": -2.96749,
     "link": "https://www.paulashtonarchitects.com"
   },
   {
@@ -253,7 +253,7 @@
     "category": "Planning Permission",
     "latitude": 53.38844152917355,
     "longitude": -2.9439500037891926,
-    "link": 
+    "link": ""
   },
   {
     "name": "154",
@@ -261,7 +261,7 @@
     "category": "Feasibility Study & Heritage Lottery Application",
     "latitude": 53.39714507199518,
     "longitude": -2.968921877014813,
-    "link": 
+    "link": ""
   },
   {
     "name": "156",
@@ -269,7 +269,7 @@
     "category": "Feasibility Study",
     "latitude": 53.476132,
     "longitude": -3.022252,
-    "link": 
+    "link": ""
   },
   {
     "name": "157",
@@ -277,7 +277,7 @@
     "category": "Planning & Building Regulations Permission",
     "latitude": 53.591948,
     "longitude": -2.885772,
-    "link":
+    "link": ""
   },
   {
     "name": "158",
@@ -285,7 +285,7 @@
     "category": "Planning Permission",
     "latitude": 53.231154,
     "longitude": -2.511904,
-    "link": 
+    "link": ""
   },
   {
     "name": "160",
@@ -293,22 +293,22 @@
     "category": "Planning Permission",
     "latitude": 53.19134635459832,
     "longitude": -2.8686622963715123,
-    "link": 
-  },  
+    "link": ""
+  },
   {
     "name": "161",
     "description": "18 Storey Residential Tower",
     "category": "Pre Application",
     "latitude": 53.403550055586706,
     "longitude": -2.9773249570347304,
-    "link": 
-  },  
+    "link": ""
+  },
   {
     "name": "162",
     "description": "New-build 4 Storey Dwelling",
     "category": "Building Regulations",
     "latitude": 53.38162126104802,
     "longitude": -2.8692514844074557,
-    "link": 
-  }   
+    "link": ""
+  }
 ]
