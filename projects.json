@@ -446,5 +446,61 @@
     "latitude": 53.533965806674054,
     "longitude": -2.2381299719727252,
     "link": ""
-  }     
+  },
+  {
+    "name": "188",
+    "description": "Change of Use of Commercial Unit to Lab",
+    "category": "Building Regulations",
+    "latitude": 53.40504305228069,
+    "longitude": -3.0627546198167424,
+    "link": ""
+  },
+  {
+    "name": "189",
+    "description": "New-build Apartments",
+    "category": "Feasibility Study",
+    "latitude": 53.52516348016572,
+    "longitude": -2.2486384951331946,
+    "link": ""
+  },
+  {
+    "name": "191",
+    "description": "New-build Apartments in Green Belt",
+    "category": "Feasibility Study",
+    "latitude": 53.27043514609126,
+    "longitude": -2.2835730018854123,
+    "link": ""
+  },
+  {
+    "name": "192",
+    "description": "Change of Use of Commercial Unit",
+    "category": "Planning Permission",
+    "latitude": 53.474269131216076,
+    "longitude": -2.2509080766088023,
+    "link": ""
+  },
+  {
+    "name": "193",
+    "description": "Conversion of Victorian Villa to Apartments in Conservation Area",
+    "category": "Planning Permission",
+    "latitude": 53.42069055617427,
+    "longitude": -2.9457160313834367,
+    "link": ""
+  },
+  {
+    "name": "194",
+    "description": "6 no. New-build Houses",
+    "category": "Building Regulations",
+    "latitude": 53.769572650077706,
+    "longitude": -2.486088099484275,
+    "link": ""
+  },
+  {
+    "name": "195",
+    "description": "7 Storey New-build Apartment Buildng",
+    "category": "Pre Application",
+    "latitude": 53.471140022699515,
+    "longitude": -2.2345907765988535,
+    "link": ""
+  }      
 ]
